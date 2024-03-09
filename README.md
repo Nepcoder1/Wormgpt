@@ -33,8 +33,8 @@ python main.py
 
 module required For it
 ```
-pip install requests
-pip install webbrowser
+pip install requests &&
+pip install Webbrowser
 ```
 
 Ask your questions and experience the power of intelligent responses.
