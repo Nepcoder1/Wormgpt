@@ -31,6 +31,10 @@ Execute the following command to start interacting with WormGPT:
 python main.py
 ```
 
+module required For it
+pip install requests
+pip install webbrowser
+
 Ask your questions and experience the power of intelligent responses.
 
 ## Enjoy Interacting!
